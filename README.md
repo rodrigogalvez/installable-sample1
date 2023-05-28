@@ -63,7 +63,7 @@ export default defineConfig({
 })
 ```
 
-Ageregar en tsconfig.json las siguientes líneas dentro de *compilerOptions*:
+Agerega en tsconfig.json las siguientes líneas dentro de *compilerOptions*:
 
 ```json
 {
