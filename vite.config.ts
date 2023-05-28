@@ -18,7 +18,7 @@ export default defineConfig({
         name: "Installable-sample1",
         short_name: "Installable-s1",
         theme_color: "#ffffff",
-        start_url: "/",
+        start_url: "/installable-sample1/",
         display: "standalone",
         background_color: "#ffffff",
         icons: [
